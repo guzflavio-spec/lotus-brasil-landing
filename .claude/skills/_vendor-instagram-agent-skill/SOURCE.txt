@@ -1,0 +1,3 @@
+Fonte: https://github.com/Jakeschincariol/instagram-agent-skill (MIT, (c) 2026 Jake Schincariol)
+Commit auditado: d03c56b
+Auditoria: sem rede/subprocess/eval/hooks; scripts locais apenas.
