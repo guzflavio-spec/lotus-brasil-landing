@@ -13,11 +13,17 @@ Use the creative-agency agent to build a 15 s Reels campaign for <brief>
 
 The agent definition is `.claude/agents/creative-agency.md`.
 
+## Team premise
+
+Non-obvious ideas. Creativity with intelligence. AI-assisted creativity. The method that
+enforces it is in `creative-agency/prompts/CREATIVE-PREMISE.md`.
+
 ## Layout
 
 ```
 .claude/agents/creative-agency.md   the agent (roles, pipeline, rules)
 creative-agency/
+  prompts/CREATIVE-PREMISE.md       the team premise and ideation method
   prompts/PLAYBOOK.md               prompt formulas and workflow
   prompts/templates/                ready-to-adapt templates
   prompts/sources/                  community libraries (CC BY 4.0)
